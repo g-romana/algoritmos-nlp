@@ -1,0 +1,17 @@
+torch
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+watermark
+psutil
+IProgress
+sympy
+filelock
+jinja2
+networkx
+typing-extensions
+IProgress
+awscli
+transformers
