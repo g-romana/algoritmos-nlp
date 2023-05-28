@@ -1,2 +1,0 @@
-experiment_name,datetime,sample_size,bert_model,training_time,memory_usage,gpu_usage,gpu_memory_usage,accuracy
-AG_NEWS_PYTHON,2023-05-19 19:31:02.794079,119998,google/bert_uncased_L-4_H-256_A-4,3947.450471639633,45.2,False,0,0.9197368421052632
