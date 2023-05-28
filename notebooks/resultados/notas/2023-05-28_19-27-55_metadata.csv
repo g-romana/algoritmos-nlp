@@ -1,0 +1,2 @@
+BATCH_SIZE,EPOCHS,LEARNING_RATE,PRE_TRAINED_MODEL_NAME,tipo,idioma,train_acc,val_acc,tiempo_seg
+16,2,1e-05,dccuchile/bert-base-spanish-wwm-cased,AMAZON,es,0.6771111111111111,0.6506666666666666,9995.95273065567
